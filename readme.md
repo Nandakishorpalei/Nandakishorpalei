@@ -2,7 +2,7 @@
 <h1> Hello From Our Side! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-<h1>I'm <i>Nanda Kishor Pale</i></h1>
+<h1>I'm <i>Nanda Kishor Palei</i></h1>
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=nandakishorpalei.nandakishorpalei)
