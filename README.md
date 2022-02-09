@@ -28,7 +28,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishorpalei&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandakishorpalei&theme=tokyonight)
 
 
 
