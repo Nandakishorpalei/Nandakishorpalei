@@ -32,6 +32,7 @@
 
     
   <h2>connect with me</h2>
+   
 <a href="https://www.linkedin.com/in/nanda-kishor-palei-234846203/"><img width ='32px' margin="100px" target="blank" src ='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644553468~hmac=4e6b9d40ef1ad6ce2f421aee0b5d8e0d'></a>
    
   <a href="https://www.facebook.com/arman.rahul.52/"><img width ='32px' margin="10px" target="blank" src ='https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1644553499~hmac=1f645a6f8aacd17efa1babe53c1b2605'></a>
