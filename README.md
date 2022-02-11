@@ -30,7 +30,11 @@
 <br>
   <br>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+   
+ 
+   <div align=left>
+   
+<h2> skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div style="display:flex;">
  <div>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
@@ -63,8 +67,22 @@
    </div>
  
 </div>
+   </div>  
+  
+    
+   <h2 >connect with me</h2>
 
-<br>
+<a href="https://www.linkedin.com/in/nanda-kishor-palei-234846203/"><img width ='32px' margin="100px" target="blank" src ='https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644553468~hmac=4e6b9d40ef1ad6ce2f421aee0b5d8e0d'></a>
+   
+  <a href="https://www.facebook.com/arman.rahul.52/"><img width ='32px' margin="10px" target="blank" src ='https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1644553499~hmac=1f645a6f8aacd17efa1babe53c1b2605'></a>
+    
+<a href="https://www.instagram.com/nkp_45_/"><img width ='32px' margin="10px" target="blank" src ='https://cdn-icons-png.flaticon.com/512/174/174855.png'></a>
+    
+<a href="https://twitter.com/NandaPalei"> <img width ='32px' margin="10px" target="blank" src ='https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1644553533~hmac=bd174648c436f7162687a4ff66c20e9d'></a>
+         
+
+   
+   <br>
 <br>
   <br>
 
