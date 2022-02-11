@@ -1,7 +1,17 @@
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
 
+
+
+
+
+
+<div style="display:flex;flex-direction:row;">
 <h1>I'm <i>Nanda Kishor Palei</i> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
 
  <div align="right">
  <a href="https://nandakishorpalei.herokuapp.com/">
@@ -12,7 +22,7 @@
  <img width="13%" alt="Github" src="https://logos.flamingtext.com/Name-Logos/Resume-design-sketch-name.png" />
  </a>
  </div>
-
+</div>
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=nandakishorpalei.nandakishorpalei)
