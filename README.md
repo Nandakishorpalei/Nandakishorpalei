@@ -1,19 +1,16 @@
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
+ <h1 align=left>I'm <i>Nanda Kishor Palei</i> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
+<div>
+    
+<div align=left size='20px'> 
+  <p align=left>Thank You for being here to view my Repository 😇 </p>
+  <img align=left  src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+</div>
 
 
 
 
-
-
-<div style="display:flex;flex-direction:row;">
-<h1>I'm <i>Nanda Kishor Palei</i> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-
- <div align="right">
+  <div align=right>
  <a href="https://nandakishorpalei.herokuapp.com/">
  <img width="15%" alt="Github" src="https://www.pngfind.com/pngs/m/501-5015034_portfolio-circle-hd-png-download.png" />
   </a>
@@ -22,19 +19,16 @@
  <img width="13%" alt="Github" src="https://logos.flamingtext.com/Name-Logos/Resume-design-sketch-name.png" />
  </a>
  </div>
-</div>
-
+  
+  <div>
+<br>
+<br>
+  <br>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=nandakishorpalei.nandakishorpalei)
-
 <br>
-
-<div size='20px'> Thank You for being here to view my Repository 😇 
-</div>
-
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-
-
+<br>
+  <br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div style="display:flex;">
