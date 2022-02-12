@@ -3,7 +3,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Masai+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I have completed masters in computer application. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
+<h4 align="center">I have completed masters in computer application. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a person who loves to take up new challenges and learn new skills.</h4>
 <br>
 <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=nandakishorpalei.nandakishorpalei" alt="Nanda kishor palei" /> </p>
 
