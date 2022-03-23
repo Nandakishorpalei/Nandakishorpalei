@@ -49,10 +49,10 @@
   <br/>
  <div align="center">
   <span align="left" width="50%">
-    <a href="https://github.com/Candida18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandakishorpalei&show_icons=true&locale=en&theme=algolia" alt="candida18" height="192px"/></a>
+    <a href="https://github.com/Nandakishorpalei"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandakishorpalei&show_icons=true&locale=en&theme=algolia" alt="nkp" height="192px"/></a>
 	</span>
 	<span  align="right" width="50%">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandakishorpalei&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandakishorpalei&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nkp" height="192px"/>
 	</span>
  </div>
   <br/
