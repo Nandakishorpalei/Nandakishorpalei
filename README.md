@@ -58,8 +58,6 @@
 
 
   <br/>
-   <a href="https://github.com/nandakishorpalei"><img alt="Nanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nandakishorpalei&custom_title=Nanda%20Kishor's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
