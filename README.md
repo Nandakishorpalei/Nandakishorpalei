@@ -5,7 +5,6 @@
 <hr/>
 <h4 align="center">I have completed masters in computer application. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a person who loves to take up new challenges and learn new skills.</h4>
 <br>
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=nandakishorpalei.nandakishorpalei" alt="Nanda kishor palei" /> </p>
 
 ## <h2 align="center">🔥 Streak Stats</h2>
 
