@@ -70,6 +70,4 @@
 	<a href="https://www.linkedin.com/in/nanda-kishor-palei-234846203/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/arman.rahul.52/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/nkp_45_/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/NandaPalei"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Youtube"/></a>
-	
 </p>
