@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Nanda kishor palei <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Web+Developer;&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I have completed masters in computer application. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a person who loves to take up new challenges and learn new skills.</h4>
+<h4 align="center">I have over two years of experience in web development at a product-based company. I'm an enthusiastic professional who loves to take on new challenges and continuously learn new skills.</h4>
 <br>
 
 ## <h2 align="center">🔥 Streak Stats</h2>
@@ -42,23 +42,6 @@
 </div>
    </div>  
 <br/>
-
-## <h2 align="center"> 📊  Github Stats </h2>
-
-  <br/>
- <div align="center">
-  <span align="left" width="50%">
-    <a href="https://github.com/Nandakishorpalei"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandakishorpalei&show_icons=true&locale=en&theme=algolia" alt="nkp" height="192px"/></a>
-	</span>
-	<span  align="right" width="50%">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandakishorpalei&show_icons=true&locale=en&layout=compact&theme=algolia" alt="nkp" height="192px"/>
-	</span>
- </div>
-  <br/
-
-
-  <br/>
-
 
 <br/>
 
